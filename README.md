@@ -9,7 +9,9 @@ Arduino(C/C++),電子回路
 電子ドラム(スネアのみ)
 
 ## 使用例
-ElectronicDrums_v0.mp4で実際に使用した様子を見ることができます
+ElectronicDrums_v0.mp4で実際に使用した様子を見ることができます  
+以下のリンクからも試聴することが出来ます  
+https://drive.google.com/file/d/1Rajz9KCzjEBt2yq2ID7Lhnxa4drFN6u6/view?usp=drive_link
 
 ## 特徴
 1. ドラムを叩いてかた音が鳴るまでのレイテンシが小さい(Arduinoの繰り返し処理が比較的単純だから)
